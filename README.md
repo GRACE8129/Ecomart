@@ -10,9 +10,9 @@ To see a live Demo of this project,pls visit http://ecomartng.pythonanywhere.com
 
 
 Authors
-Osimen Grace 
-Oladamola Taiwo
-Opeyemi Alabi
+Osimen Grace, 
+Oladamola Taiwo,
+Opeyemi Alabi,
  
 Installation
 To run this project locally, please follow these steps:
